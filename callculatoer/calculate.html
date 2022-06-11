@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Calculate</title>
+    <!-- meta -->
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- google font -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap" rel="stylesheet">
+    <!-- css files -->
+    <link rel="stylesheet" href="calculate.css">
+</head>
+<body>
+    <!-- start main section -->
+    <audio id="sound" src="" autoplay></audio>
+    <calculate class="calculatoer">
+        <div class="calculate">
+            <div>
+                <form action="">
+                    <input class="input" id="input" type="text" readonly>
+                </form>
+                <div class="row_one">
+                    <button class="spe" id="btn-c">C</button>
+                    <button class="spe" id="btn-no" >&#8756;</button>
+                    <button class="spe" id="btn-Del" >Del</button>
+                    <button id="btn-div" >÷</button>
+                </div>
+                <div class="row_tow">
+                    <button id="btn-7" >7</button>
+                    <button id="btn-8" >8</button>
+                    <button id="btn-9" >9</button>
+                    <button id="btn-x" >x</button>
+                </div>
+                <div class="row_three">
+                    <button id="btn-4" >4</button>
+                    <button id="btn-5" >5</button>
+                    <button id="btn-6" >6</button>
+                    <button id="btn-" >-</button>
+                </div>
+                <div class="row_four">
+                    <button id="btn-1" >1</button>
+                    <button id="btn-2" >2</button>
+                    <button id="btn-3" >3</button>
+                    <button id="btn-+" >+</button>
+                </div>
+                <div class="row_five">
+                    <button id="btn-dot" >.</button>
+                    <button id="btn-0" >0</button>
+                    <button id="equal" class="equal">=</button>
+                </div>
+            </div>
+        </div>
+    </calculate>
+    <!-- start main section -->
+    <!-- start custom color -->
+        <section class="custom">
+            <form action="">
+                <legend>custom colors</legend>
+                <hr>
+                <label for="">background</label>
+                <input type="text" placeholder="background" value="grey" name="background">
+                <label for="">secondBackColor</label>
+                <input type="text" placeholder="secondBackColor" value="#F0F2F5" name="secondBackColor">
+                <label for="">mainColor</label>
+                <input type="text" placeholder="mainColor" value="white" name="mainColor">
+                <label for="">secondColor</label>
+                <input type="text" placeholder="secondColor" value="rgb(204, 0, 255)"  name="secondColor">
+                <label for="">equalColor</label>
+                <input type="text" placeholder="equalColor" value="red" name="equalColor">
+                <div>
+                <input type="submit" id="submit" value="submit">
+                <input type="submit" id="reset" value="reset">
+                </div>
+            </form>
+        </section>
+    <!-- end custom color -->
+    <!-- js files -->
+    <script src="calculate.js"></script>
+</body>
+</html>
