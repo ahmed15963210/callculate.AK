@@ -27,7 +27,7 @@ let proc="";
 //********************************************************************************************************* */
 
 btnC.onclick=function() {
-    audio.src="/callculatoer/mixkit-modern-click-box-check-1120.wav";
+    audio.src="/callculate.AK/callculatoer/mixkit-modern-click-box-check-1120.wav";
     this.style.cssText=
     `
     transform: scale(0.9);
@@ -60,7 +60,7 @@ btnNo.onmouseout=function() {
 }
 //******************************************************************* */
 btnDel.onclick=function() {
-    audio.src="/callculatoer/mixkit-modern-click-box-check-1120.wav";
+    audio.src="/callculate.AK/callculatoer/mixkit-modern-click-box-check-1120.wav";
     this.style.cssText=
     `
     transform: scale(0.9);
@@ -76,7 +76,7 @@ btnDel.onmouseout=function() {
 }
 //********************************************************************* */
 btnDiv.onclick=function() {
-    audio.src="/callculatoer/mixkit-modern-click-box-check-1120.wav";
+    audio.src="/callculate.AK/callculatoer/mixkit-modern-click-box-check-1120.wav";
     this.style.cssText=
     `
     transform: scale(0.9);
@@ -93,7 +93,7 @@ btnDiv.onmouseout=function() {
 }
 //********************************************************************* */
 btn7.onclick=function() {
-    audio.src="/callculatoer/mixkit-modern-click-box-check-1120.wav";
+    audio.src="/callculate.AK/callculatoer/mixkit-modern-click-box-check-1120.wav";
     this.style.cssText=
     `
     transform: scale(0.9);
@@ -111,7 +111,7 @@ btn7.onmouseout=function() {
 }
 //********************************************************************* */
 btn8.onclick=function() {
-    audio.src="/callculatoer/mixkit-modern-click-box-check-1120.wav";
+    audio.src="/callculate.AK/callculatoer/mixkit-modern-click-box-check-1120.wav";
     this.style.cssText=
     `
     transform: scale(0.9);
@@ -129,7 +129,7 @@ btn8.onmouseout=function() {
 }
 //********************************************************************* */
 btn9.onclick=function() {
-    audio.src="/callculatoer/mixkit-modern-click-box-check-1120.wav";
+    audio.src="/callculate.AK/callculatoer/mixkit-modern-click-box-check-1120.wav";
     this.style.cssText=
     `
     transform: scale(0.9);
@@ -147,7 +147,7 @@ btn9.onmouseout=function() {
 }
 //********************************************************************* */
 btnX.onclick=function() {
-    audio.src="/callculatoer/mixkit-modern-click-box-check-1120.wav";
+    audio.src="/callculate.AK/callculatoer/mixkit-modern-click-box-check-1120.wav";
     this.style.cssText=
     `
     transform: scale(0.9);
@@ -164,7 +164,7 @@ btnX.onmouseout=function() {
 }
 //********************************************************************* */
 btn4.onclick=function() {
-    audio.src="/callculatoer/mixkit-modern-click-box-check-1120.wav";
+    audio.src="/callculate.AK/callculatoer/mixkit-modern-click-box-check-1120.wav";
     this.style.cssText=
     `
     transform: scale(0.9);
@@ -182,7 +182,7 @@ btn4.onmouseout=function() {
 }
 //********************************************************************* */
 btn5.onclick=function() {
-    audio.src="/callculatoer/mixkit-modern-click-box-check-1120.wav";
+    audio.src="/callculate.AK/callculatoer/mixkit-modern-click-box-check-1120.wav";
     this.style.cssText=
     `
     transform: scale(0.9);
@@ -200,7 +200,7 @@ btn5.onmouseout=function() {
 }
 //********************************************************************* */
 btn6.onclick=function() {
-    audio.src="/callculatoer/mixkit-modern-click-box-check-1120.wav";
+    audio.src="/callculate.AK/callculatoer/mixkit-modern-click-box-check-1120.wav";
     this.style.cssText=
     `
     transform: scale(0.9);
@@ -218,7 +218,7 @@ btn6.onmouseout=function() {
 }
 //********************************************************************* */
 btnMINUS.onclick=function() {
-    audio.src="/callculatoer/mixkit-modern-click-box-check-1120.wav";
+    audio.src="/callculate.AK/callculatoer/mixkit-modern-click-box-check-1120.wav";
     this.style.cssText=
     `
     transform: scale(0.9);
@@ -235,7 +235,7 @@ btnMINUS.onmouseout=function() {
 }
 //********************************************************************* */
 btn1.onclick=function() {
-    audio.src="/callculatoer/mixkit-modern-click-box-check-1120.wav";
+    audio.src="/callculate.AK/callculatoer/mixkit-modern-click-box-check-1120.wav";
     this.style.cssText=
     `
     transform: scale(0.9);
@@ -252,7 +252,7 @@ btn1.onmouseout=function() {
 }
 //********************************************************************* */
 btn2.onclick=function() {
-    audio.src="/callculatoer/mixkit-modern-click-box-check-1120.wav";
+    audio.src="/callculate.AK/callculatoer/mixkit-modern-click-box-check-1120.wav";
     this.style.cssText=
     `
     transform: scale(0.9);
@@ -269,7 +269,7 @@ btn2.onmouseout=function() {
 }
 //********************************************************************* */
 btn3.onclick=function() {
-    audio.src="/callculatoer/mixkit-modern-click-box-check-1120.wav";
+    audio.src="/callculate.AK/callculatoer/mixkit-modern-click-box-check-1120.wav";
     this.style.cssText=
     `
     transform: scale(0.9);
@@ -286,7 +286,7 @@ btn3.onmouseout=function() {
 }
 //********************************************************************* */
 btnPlus.onclick=function() {
-    audio.src="/callculatoer/mixkit-modern-click-box-check-1120.wav";
+    audio.src="/callculate.AK/callculatoer/mixkit-modern-click-box-check-1120.wav";
     this.style.cssText=
     `
     transform: scale(0.9);
@@ -303,7 +303,7 @@ btnPlus.onmouseout=function() {
 }
 //********************************************************************* */
 btnDot.onclick=function() {
-    audio.src="/callculatoer/mixkit-modern-click-box-check-1120.wav";
+    audio.src="/callculate.AK/callculatoer/mixkit-modern-click-box-check-1120.wav";
     this.style.cssText=
     `
     transform: scale(0.9);
@@ -320,7 +320,7 @@ btnDot.onmouseout=function() {
 }
 //********************************************************************* */
 btn0.onclick=function() {
-    audio.src="/callculatoer/mixkit-modern-click-box-check-1120.wav";
+    audio.src="/callculate.AK/callculatoer/mixkit-modern-click-box-check-1120.wav";
     this.style.cssText=
     `
     transform: scale(0.9);
@@ -342,7 +342,7 @@ btnEqual.onclick=function() {
     xS="";
     yS="";
     proc="";
-    audio.src="/callculatoer/equal.wav";
+    audio.src="/callculate.AK/callculatoer/equal.wav";
     this.style.cssText=
     `
     transform: scale(0.9);
